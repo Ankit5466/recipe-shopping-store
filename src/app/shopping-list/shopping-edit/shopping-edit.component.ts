@@ -6,5 +6,4 @@ import { Component } from '@angular/core';
   styleUrl: './shopping-edit.component.css'
 })
 export class ShoppingEditComponent {
-
 }
